@@ -16,7 +16,7 @@ se puede subir mucho de rango. pero es mas como desafio personal, porque se que 
 y he intentado seguir en este camino (a pesar de que las ofertas laborales potentes siempre piden años de experiencia)
 pero cuesta igual su resto (para adquirir buenas rentas) pero claramente esto no es definitorio.
 
-Felipe Alberto Reyes González :
+##Felipe Alberto Reyes González :
 
 El ser autodidacta es una característica deseable para un profesional relacionado con la computación o informática.
 Respecto del título, personalmente creo que él título es importante bajo una condición: Que el título efectivamente
@@ -25,7 +25,7 @@ que sale con lo justo o que lo tienen que sacar con abogado de la U. Finalmente,
 el título no es necesario para ser un buen profesional pero algo que es innegable es que es más fácil ganar lucas teniendo
 título que sin él.
 
-Daniel Salazar:
+##Daniel Salazar:
 El ser autodidacta lo es todo en nuestra carrera en cuanto a conocimientos se refiere,
 pero el título ayuda, primero a demostrar un nivel mínimo base(*), y segundo a meterse en toda la máquina burocrática
 que es el Estado; ergo, igual es recomendado sacarlo.
@@ -46,7 +46,7 @@ Respuestas
  -----------------------------------------------------------------------------------------------------------------------
 
 
-Pat Cornejo :
+##Pat Cornejo :
 
 Comparto mi experiencia personal... Me dedico al area de tecnología desde hace 14 años... comencé chico aprendiendo
 en Fortran, nunca estudie nada, de hecho me sali de ing comercial en la PUC al 3er año para crear mi propia empresa,
@@ -59,7 +59,7 @@ mas q a mi mismo, todo esta en la persona... nada más...
 
 
 
-Ricardo Adrián Rebolledo Cánovas :
+##Ricardo Adrián Rebolledo Cánovas :
 
 Creo que no lo es todo ser autodidacta ya que entran otros factores en juego, como valores propio de la persona
 para ser un buen programador, pero aún así no es necesario tener un título universitario, ya que definitivamente
@@ -81,7 +81,7 @@ Bueno tambien por un tema monetario siempre me han pedido validar mis conocimien
 por ende siempre he tenido que luchar las lucas demostrando los conocimientos con mis proyectos directamente.
 
 
-Andres Silva :
+##Andres Silva :
 
 Para ser Informático, se debe ser un enamorado en TI, es un ecosistema en donde todo gira en cuanto a TI,
 los estudios y las certificaciones solo mejoran los procesos QA.
