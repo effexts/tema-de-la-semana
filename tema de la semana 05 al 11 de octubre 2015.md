@@ -70,7 +70,7 @@ me hubiese pauteado que aprender, pero si nos vamos a las metodologías de apren
 autodidacta, ya que he leído muchos libros y tutoriales que sí me pautean el como actuar (y también mucho ensayo y error,
 obvio). Al final va en la iniciativa de uno por seguir aprendiendo. Saludos
 
-Elvis Alan Romero Carvajal :
+##Elvis Alan Romero Carvajal :
 
 Como siempre se ve en todos los sentidos de la vida, debe haber un equilibrio entre ambas cosas,
 si bien ser autodidacta ayuda bastante y es lo primero que te indican cuando entras a estudiar,
